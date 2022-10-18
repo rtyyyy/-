@@ -1,0 +1,23 @@
+{
+  "name": "mogo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  
+  "style":"node-sass -w ./scss -o ./css"},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rtyyyy/mogo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rtyyyy/mogo/issues"
+  },
+  "homepage": "https://github.com/rtyyyy/mogo#readme",
+  "dependencies": {
+    "node-sass": "^7.0.3"
+  }
+}
